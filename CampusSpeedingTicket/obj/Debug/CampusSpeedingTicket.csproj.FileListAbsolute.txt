@@ -1,0 +1,6 @@
+c:\users\ausreun\documents\visual studio 2013\Projects\CampusSpeedingTicket\CampusSpeedingTicket\bin\Debug\CampusSpeedingTicket.exe.config
+c:\users\ausreun\documents\visual studio 2013\Projects\CampusSpeedingTicket\CampusSpeedingTicket\bin\Debug\CampusSpeedingTicket.exe
+c:\users\ausreun\documents\visual studio 2013\Projects\CampusSpeedingTicket\CampusSpeedingTicket\bin\Debug\CampusSpeedingTicket.pdb
+c:\users\ausreun\documents\visual studio 2013\Projects\CampusSpeedingTicket\CampusSpeedingTicket\obj\Debug\CampusSpeedingTicket.csprojResolveAssemblyReference.cache
+c:\users\ausreun\documents\visual studio 2013\Projects\CampusSpeedingTicket\CampusSpeedingTicket\obj\Debug\CampusSpeedingTicket.exe
+c:\users\ausreun\documents\visual studio 2013\Projects\CampusSpeedingTicket\CampusSpeedingTicket\obj\Debug\CampusSpeedingTicket.pdb
